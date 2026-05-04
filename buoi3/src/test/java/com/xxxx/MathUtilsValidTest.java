@@ -35,7 +35,7 @@ class MathUtilsValidTest {
 
     @Test
     void alternating_valid() {
-        assertEquals(3, MathUtils.alternatingSum(3));
+        assertEquals(2, MathUtils.alternatingSum(3));
     }
 
     @Test
